@@ -4,7 +4,7 @@
 
 🛠️ Junior C++ / Unreal Engine Developer
 
-🧠 Building horror game tools (Ravenholm Plugin, EasyTelemetry)
+🧠 Building tools (Ravenholm Plugin, EasyTelemetry)
 
 ---
 
