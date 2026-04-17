@@ -37,9 +37,9 @@
 ### 🧭 About
 
 I’m a 4th-year **Game Programming** student at **ArtFX Montpellier**, specialized in **C++ / Unreal Engine 5** gameplay systems and editor tooling.
-I build things that sit between the engine and the designers — plugins, custom components, analytics pipelines — and I love the moments where low-level code meets shipped gameplay.
+I build things that sit between the engine and the designers, plugins, custom components, analytics pipelines and I love the moments where low-level code meets shipped gameplay.
 
-Currently looking for a **6-month internship or first full-time position** in a AAA or ambitious AA studio.
+Currently looking for a **1 month internship** in a AAA or ambitious AA studio.
 
 -----
 
@@ -72,7 +72,7 @@ Currently looking for a **6-month internship or first full-time position** in a 
 
 </div>
 
-**Focus areas** — Gameplay systems, editor tooling & plugins, engine architecture, multiplayer/replication, pipeline & build integration.
+**Focus areas** Gameplay systems, editor tooling & plugins, engine architecture, multiplayer/replication, pipeline & build integration.
 
 -----
 
@@ -85,7 +85,7 @@ Currently looking for a **6-month internship or first full-time position** in a 
 #### 🧠 [ArtFX_GameEngine](https://github.com/IjulienI/ArtFX_GameEngine)
 
 Custom **C++ / OpenGL game engine** built from scratch as an academic deep-dive.
-Rendering pipeline, scene graph, input layer, math library — the stuff that lives *under* UE.
+Rendering pipeline, scene graph, input layer, math library, the stuff that lives *under* UE.
 
 `C++20` `OpenGL` `Engine Architecture`
 
@@ -94,7 +94,7 @@ Rendering pipeline, scene graph, input layer, math library — the stuff that li
 
 #### 📊 [EasyTelemetry](https://github.com/IjulienI/EasyTelemetry)
 
-**UE5 plugin** for real-time gameplay analytics — heatmaps, event tracking, JSON export for downstream analysis.
+**UE5 plugin** for real-time gameplay analytics, heatmaps, event tracking, JSON export for downstream analysis.
 Ships as a drop-in module with editor tooling.
 
 `UE5` `C++` `Editor Tooling` `Plugin`
@@ -106,7 +106,7 @@ Ships as a drop-in module with editor tooling.
 
 #### 🩸 RavenholmCore *(in development)*
 
-Horror gameplay **SDK** for UE5 — interaction system, scripted events, puzzle framework.
+Horror gameplay **SDK** for UE5, interaction system, scripted events, puzzle framework.
 Designed to be designer-friendly and modular.
 
 `UE5` `Gameplay SDK` `Blueprint API`
