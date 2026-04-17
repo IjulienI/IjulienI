@@ -110,7 +110,7 @@ Custom **C++ memory allocators** (Linear, Stack, Pool) built from scratch, the m
 **UE5 plugin** for gameplay analytics, position sampling, event tracking, and exploit detection via event sequence analysis. Open-source, currently in active refactor.
 
 `UE5` `Plugin` `Slate` `Tooling`
-
+<!--
 </td>
 <td width="50%" valign="top">
 
@@ -128,7 +128,7 @@ Hand-crafted **Gameplay Ability System** examples, dash with client prediction, 
 My technical contributions on the ArtFX **Chaos Vehicle** workshop, vehicle logic, data-driven designer API, and an anti-stuck component with automatic recovery.
 
 `UE5` `Chaos Vehicle` `DataAsset`
-
+-->
 </td>
 <td width="50%" valign="top">
 
