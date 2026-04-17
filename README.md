@@ -46,7 +46,7 @@ And because gameplay is only as good as the loop that runs it, I spend time read
 > **Right now, a 1-month summer internship (Summer 2026).**
 > A short, intensive immersion in a real production environment during my studies. I'm looking to ship alongside a senior engineer on a live codebase, learn how a AAA pipeline actually runs day-to-day, and bring that back to my final year.
 >
-> **From September 2027 — my first full-time gameplay programming role.**
+> **From September 2027, my first full-time gameplay programming role.**
 > After graduating from ArtFX. Ideally in a **AAA studio** (Ubisoft, Quantic Dream, Asobo, Arkane, Dontnod…) but open to ambitious AA / indie teams working on technically interesting projects.
 >
 > 📫 **[contact@juliensoumdev.com](mailto:contact@juliensoumdev.com)**, happy to discuss either.
